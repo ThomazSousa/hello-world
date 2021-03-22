@@ -1,2 +1,2 @@
 # hello-world
-meu primeiro contato com github
+meu primeiro contato com github \o/
